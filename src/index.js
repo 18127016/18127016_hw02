@@ -6,8 +6,8 @@ import Game from './component/Game';
 ReactDOM.render(
   <React.StrictMode>
     <Game
-    col={10}
-    row={10}
+    col={6}
+    row={6}
     numStep={5}
      />
   </React.StrictMode>,
